@@ -1,6 +1,7 @@
 fastapi[all]
 pydantic
+typing-extensions
 xgboost
 pandas
-pickle
+pickle5
 joblib
