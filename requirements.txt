@@ -1,1 +1,6 @@
 fastapi[all]
+pydantic
+xgboost
+pandas
+pickle
+joblib
