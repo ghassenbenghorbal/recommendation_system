@@ -4,3 +4,4 @@ typing-extensions
 xgboost
 pandas
 joblib
+scikit-learn
